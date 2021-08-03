@@ -11,4 +11,4 @@ if(guessedNumber == n):
 else:
     chances = chances-1
     print("Wrong Number. TRY AGAIN!")
-    print"You have", chances, "chances"
+    print("You have", chances, "chances")
